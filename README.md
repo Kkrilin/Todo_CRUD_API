@@ -176,7 +176,7 @@ Description: Update a TODO
 > ### PUT /todos/5
 >```json
 >{
->  "text": "Learn SQL",
+>  "text": "study",
 >  "isCompleted": true
 >}
 >```
@@ -187,7 +187,7 @@ Description: Update a TODO
 >{
 >    "todos": {
 >        "id": 5,
->        "text": "UPDATING Learn SQL",
+>        "text": "cricket",
 >        "isCompleted": true
 >    }
 >}
